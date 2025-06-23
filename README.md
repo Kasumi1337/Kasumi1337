@@ -1,6 +1,6 @@
 # 👋 Bonjour ! Je suis Kasumi
 
-Je suis un développeur web de 18 ans, passionné par la création de sites et d'applications web. Basé en France, je suis toujours à la recherche de nouveaux défis et d'opportunités d'apprentissage.
+Je suis un développeur web de 19 ans, passionné par la création de sites et d'applications web. Basé en France, je suis toujours à la recherche de nouveaux défis et d'opportunités d'apprentissage.
 
 ## 🌱 Compétences
 
