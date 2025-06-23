@@ -19,7 +19,7 @@ Je suis curieux et j'adore apprendre de nouvelles technologies. En dehors du dé
 
 ## 📫 Contact
 
-Vous pouvez me joindre à l'adresse suivante : [theo.beil67@outlook.fr](mailto:theo.beil67@outlook.fr)
+Vous pouvez me joindre sur mon discord: elkasumi
 
 N'hésitez pas à me suivre pour voir mes projets et partager vos retours !
 
