@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kasumi1337&show_icons=true&theme=radical&hide_border=true&bg_color=0,0,0,0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasumi1337&layout=compact&theme=radical&hide_border=true&bg_color=0,0,0,0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kasumi1337&show_icons=true&theme=radical&hide_border=true&bg_color=61,68,77,1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasumi1337&layout=compact&theme=radical&hide_border=true&bg_color=61,68,77,1" />
 
 </div>
 
