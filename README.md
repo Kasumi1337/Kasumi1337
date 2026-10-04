@@ -2,7 +2,6 @@
 
 # ✨ Coucou, moi c'est Kasumie ! ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FB3&center=true&vCenter=true&width=435&lines=Étudiante+à+42+🌸;20+ans+et+plein+de+bugs+à+fix+🐛;Du+code%2C+du+café+et+des+chats+☕🐱" alt="Typing SVG" />
 
 ![42](https://img.shields.io/badge/42-Student-ff9ff3?style=for-the-badge&logo=42&logoColor=white)
 ![Age](https://img.shields.io/badge/20-ans-feca57?style=for-the-badge)
